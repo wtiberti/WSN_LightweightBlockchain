@@ -1,0 +1,5 @@
+Devices/build/*
+Coordinator/build/*
+Unified/build/*
+PingPong/build/*
+*.ods
